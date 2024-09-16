@@ -1,0 +1,20 @@
+{
+    "J1909-3744_NRT.BON.1400_efac": 1.17069,
+    "J1909-3744_NRT.BON.1400_log10_tnequad": -7.33235,
+    "J1909-3744_NRT.BON.1600_efac": 1.23592,
+    "J1909-3744_NRT.BON.1600_log10_tnequad": -8.4989,
+    "J1909-3744_NRT.BON.2000_efac": 1.21411,
+    "J1909-3744_NRT.BON.2000_log10_tnequad": -7.92162,
+    "J1909-3744_NRT.NUPPI.1484_efac": 0.825862,
+    "J1909-3744_NRT.NUPPI.1484_log10_tnequad": -7.32425,
+    "J1909-3744_NRT.NUPPI.1854_efac": 0.756006,
+    "J1909-3744_NRT.NUPPI.1854_log10_tnequad": -8.57965,
+    "J1909-3744_NRT.NUPPI.2154_efac": 0.896519,
+    "J1909-3744_NRT.NUPPI.2154_log10_tnequad": -6.95666,
+    "J1909-3744_NRT.NUPPI.2539_efac": 0.735933,
+    "J1909-3744_NRT.NUPPI.2539_log10_tnequad": -7.05958,
+    "J1909-3744_dm_gp_gamma": 1.44716,
+    "J1909-3744_dm_gp_log10_A": -11.9718,
+    "J1909-3744_red_noise_gamma": 5.13331,
+    "J1909-3744_red_noise_log10_A": -15.1392
+}

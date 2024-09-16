@@ -1,0 +1,20 @@
+EPTA DR2 + InPTA DR1
+
+Four versions of the data set:
+- DR2full: full EPTA DR2 25PSR
+- DR2full+: full EPTA DR2 + InPTA DR1 for the overlapping 10 PSR
+- DR2new: EPTA DR2 using only the modern observing systems and requring multi-freq observations
+- DR2new+: DR2new + InPTA DR1 for the overlapping 10 PSR
+
+clockfiles:
+IMPORTANT is the corrected NRT clock file
+
+noisefiles:
+white noise files for the 4 data sets, red, DM and chromatic(scattering) files with the optimal freq bins up to N/T
+
+scipts_gwb:
+main GWB search scripts with enterprise and other data files added
+
+NOTE the use of modified enterprise and extensions (tag: EPTADR2-v1.1):
+https://gitlab.in2p3.fr/epta/enterprise/
+https://gitlab.in2p3.fr/epta/enterprise_extensions/

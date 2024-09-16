@@ -1,0 +1,2 @@
+FORMAT 1
+../data/55680.500005.f.000.000.zap 2204.642 55680.143474218561828   3.004  ncy  -fe L_Band -be BON -bw 128 -tobs 3857.3 -tmplt 1801_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd 0.164876

@@ -1,0 +1,5 @@
+FORMAT 1 -group NRT.BON.2000
+../data/split/54935.500003.f.000.000.0000.zap 2047.647 54935.150749127551957  10.944  ncy  -fe L_Band -be BON -bw 128 -tobs 964.42 -tmplt 1738_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.334788 -group NRT.BON.2000
+../data/split/54935.500003.f.000.000.0001.zap 2047.333 54935.161953444873992   8.587  ncy  -fe L_Band -be BON -bw 128 -tobs 964.42 -tmplt 1738_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.334788 -group NRT.BON.2000
+../data/split/54935.500003.f.000.000.0002.zap 2048.007 54935.173126917182781   6.356  ncy  -fe L_Band -be BON -bw 128 -tobs 964.42 -tmplt 1738_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.334788 -group NRT.BON.2000
+../data/split/54935.500003.f.000.000.0003.zap 2047.755 54935.183556647071234   6.968  ncy  -fe L_Band -be BON -bw 128 -tobs 843.87 -tmplt 1738_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.334788 -group NRT.BON.2000

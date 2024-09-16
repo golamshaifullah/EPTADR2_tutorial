@@ -1,0 +1,7 @@
+FORMAT 1
+../data/55375.500019.f.000.000.zap 2044.422 55375.916472252342821   1.744  ncy  -fe L_Band -be BON -bw 128 -tobs 3721.4 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553
+../data/55856.500015.f.000.000.zap 2203.886 55856.602335226394172   3.745  ncy  -fe L_Band -be BON -bw 128 -tobs 3961.6 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553
+../data/55900.500017.f.000.000.zap 2298.045 55900.477428959680061   7.518  ncy  -fe L_Band -be BON -bw 128 -tobs 3121.3 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553
+../data/part2/56196.500017.f.000.000.zap 2298.000 56196.658047332854103   8.250  ncy  -fe L_Band -be BON -bw 128 -tobs 1440.6 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553
+../data/part2/56196.500019.f.000.000.zap 2297.621 56196.683691712267149   7.360  ncy  -fe L_Band -be BON -bw 128 -tobs 1680.7 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553
+../data/part2/56509.500011.f.000.000.zap 2298.074 56509.810497867174884   5.675  ncy  -fe L_Band -be BON -bw 128 -tobs 3361.4 -tmplt 1640_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.254553

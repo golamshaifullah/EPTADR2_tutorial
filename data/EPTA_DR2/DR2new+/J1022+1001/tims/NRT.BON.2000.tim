@@ -1,0 +1,6 @@
+FORMAT 1
+../data/combination_kj_diode/55327.500011.f.000.000.zap 2047.160 55327.782830335574937   2.268  ncy  -fe L_Band -be BON -bw 128 -tobs 2761.2 -tmplt 1022_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.00996184 -group NRT.BON.2000 -pta EPTA
+../data/combination_kj_diode/55347.500013.f.000.000.zap 2047.160 55347.733781976396045   3.209  ncy  -fe L_Band -be BON -bw 128 -tobs 3721.6 -tmplt 1022_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.00996184 -group NRT.BON.2000 -pta EPTA
+../data/part2/56662.500005.f.000.000.zap 2683.567 56662.135838142222676   9.270  ncy  -fe L_Band -be BON -bw 128 -tobs 3841.8 -tmplt 1022_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.00996184 -group NRT.BON.2000 -pta EPTA
+../data/part2/56679.500003.f.000.000.zap 2684.590 56679.088080757109767  13.620  ncy  -fe L_Band -be BON -bw 128 -tobs 3721.8 -tmplt 1022_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.00996184 -group NRT.BON.2000 -pta EPTA
+../data/part2/56719.500015.f.000.000.zap 2683.554 56719.976879078154943  13.251  ncy  -fe L_Band -be BON -bw 128 -tobs 3721.8 -tmplt 1022_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.2000 -padd -0.00996184 -group NRT.BON.2000 -pta EPTA

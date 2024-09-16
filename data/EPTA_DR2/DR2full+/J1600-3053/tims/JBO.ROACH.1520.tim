@@ -1,0 +1,271 @@
+FORMAT 1
+2ch/20110622_212720_J1600-3053.pz.fT 1628.166016 55734.903302592683880 1.222 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1225 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.07 -nbin 512 -sys JBO.ROACH.1620
+2ch/20110622_212720_J1600-3053.pz.fT 1417.963013 55734.903302603019540 1.727 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1225 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.939 -nbin 512 -sys JBO.ROACH.1420
+2ch/20110709_202459_J1600-3053.pz.fT 1634.694946 55751.860831332386626 1.251 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1222 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.913 -nbin 512 -sys JBO.ROACH.1620
+2ch/20110709_202459_J1600-3053.pz.fT 1417.942017 55751.860831350316949 1.649 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1222 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.859 -nbin 512 -sys JBO.ROACH.1420
+2ch/20110801_191433_J1600-3053.pz.fT 1635.110962 55774.811147110543075 1.258 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1220 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.983 -nbin 512 -sys JBO.ROACH.1620
+2ch/20110801_191433_J1600-3053.pz.fT 1417.930054 55774.811147128922480 2.493 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1220 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.25 -nbin 512 -sys JBO.ROACH.1420
+2ch/20110814_193745_J1600-3053.pz.fT 1631.576050 55787.825894981900927 1.523 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1222 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.764 -nbin 512 -sys JBO.ROACH.1620
+2ch/20110814_193745_J1600-3053.pz.fT 1418.032959 55787.825894996111170 3.632 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1222 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1420
+2ch/20110829_161442_J1600-3053.pz.fT 1632.302979 55802.685462960275242 1.544 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1225 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.984 -nbin 512 -sys JBO.ROACH.1620
+2ch/20110829_161442_J1600-3053.pz.fT 1417.941040 55802.685462975417265 3.910 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1225 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.25 -nbin 512 -sys JBO.ROACH.1420
+2ch/20111001_150709_J1600-3053.pz.fT 1634.428955 55835.640650614511511 1.305 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1224 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.841 -nbin 512 -sys JBO.ROACH.1620
+2ch/20111001_150709_J1600-3053.pz.fT 1417.947021 55835.640650632159496 2.284 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1224 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.778 -nbin 512 -sys JBO.ROACH.1420
+2ch/20111117_104643_J1600-3053.pz.fT 1630.933960 55882.456804609750824 1.688 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1219 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.04 -nbin 512 -sys JBO.ROACH.1620
+2ch/20111117_104643_J1600-3053.pz.fT 1417.909058 55882.456804623547999 4.506 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1219 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1420
+2ch/20111202_110544_J1600-3053.pz.fT 1636.631958 55897.470847083144698 1.435 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1092.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.982 -nbin 512 -sys JBO.ROACH.1620
+2ch/20111202_110544_J1600-3053.pz.fT 1418.157959 55897.470847103053552 2.657 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1092.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.859 -nbin 512 -sys JBO.ROACH.1420
+2ch/20111222_093256_J1600-3053.pz.fT 1635.088989 55917.407746871223577 1.195 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1071.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.879 -nbin 512 -sys JBO.ROACH.1620
+2ch/20111222_093256_J1600-3053.pz.fT 1418.458008 55917.407746888742069 2.446 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1071.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120110_074608_J1600-3053.pz.fT 1637.228027 55936.334337055660201 1.356 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1062 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.874 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120110_074608_J1600-3053.pz.fT 1418.511963 55936.334337075593941 2.370 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1062 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.78 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120129_074818_J1600-3053.pz.fT 1639.551025 55955.332999668442039 1.578 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1103.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.907 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120129_074818_J1600-3053.pz.fT 1417.984985 55955.332999691927774 2.809 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1103.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.11 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120222_054212_J1600-3053.pz.fT 1640.812012 55979.246226046298552 1.119 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1111.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.817 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120222_054212_J1600-3053.pz.fT 1416.812988 55979.246226073414407 4.759 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1111.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.2 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120324_030132_J1600-3053.pz.fT 1641.802002 56010.135560146174823 1.092 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1136.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.965 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120324_030132_J1600-3053.pz.fT 1418.694946 56010.135560171082959 3.291 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1136.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.989 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20120325_031339_J1600-3053.pz.fT 1641.046997 56011.149755198124770 0.982 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1900 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.13 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20120325_031339_J1600-3053.pz.fT 1418.427002 56011.149755222530928 1.621 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1900 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.998 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20120428_010940_J1600-3053.pz.fT 1640.625000 56045.064093960667790 0.761 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1804 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.862 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20120428_010940_J1600-3053.pz.fT 1418.276001 56045.064093984847002 1.880 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1804 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.896 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20120512_000057_J1600-3053.pz.fT 1640.055054 56059.020628228417089 0.462 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2362.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.09 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120512_000057_J1600-3053.pz.fT 1418.339966 56059.020628251808772 0.919 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2362.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.33 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20120617_211333_J1600-3053.pz.fT 1641.807983 56095.913652541526307 0.668 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3242.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.883 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20120617_211333_J1600-3053.pz.fT 1418.411987 56095.913652566789342 1.386 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3242.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20120705_212317_J1600-3053.pz.fT 1638.569946 56113.899273933719668 1.121 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1076.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120705_212317_J1600-3053.pz.fT 1417.900024 56113.899273956133423 1.898 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1076.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.922 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120708_200954_J1600-3053.pz.fT 1639.713013 56116.861396782725275 0.744 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2569.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120708_200954_J1600-3053.pz.fT 1418.233032 56116.861396805853372 1.549 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2569.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.955 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120709_213155_J1600-3053.pz.fT 1635.970947 56117.905604168178002 0.956 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 935.74 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120709_213155_J1600-3053.pz.fT 1418.011963 56117.905604187441531 1.784 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 935.74 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.962 -nbin 512 -sys JBO.ROACH.1420
+2ch/20120804_184203_J1600-3053.pz.fT 1635.100952 56143.786335989785292 1.059 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1174.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.82 -nbin 512 -sys JBO.ROACH.1620
+2ch/20120804_184203_J1600-3053.pz.fT 1418.223022 56143.786336007642367 3.025 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1174.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.885 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20120812_175209_J1600-3053.pz.fT 1636.265991 56151.767796185323487 0.874 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3052.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.26 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20120812_175209_J1600-3053.pz.fT 1418.128052 56151.767796204748215 1.714 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3052.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.3 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20121124_110252_J1600-3053.pz.fT 1640.141968 56255.481734394275843 0.884 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2227.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20121124_110252_J1600-3053.pz.fT 1451.614014 56255.481734402810462 0.999 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2227.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.863 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20121209_100433_J1600-3053.pz.fT 1641.579956 56270.440534099137336 0.785 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2202.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20121209_100433_J1600-3053.pz.fT 1453.161011 56270.440534106760441 0.769 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2202.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.02 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20130213_045242_J1600-3053.pz.fT 1647.937012 56336.244926362807336   0.664  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4914.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.849 -nbin 512 # bad.list
+C 2ch/20130213_045242_J1600-3053.pz.fT 1451.520020 56336.244926380361149   0.814  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4914.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.901 -nbin 512 # bad.list
+2ch/20130326_032653_J1600-3053.pz.fT 1643.894043 56377.152910691249538 1.042 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1087.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.973 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130326_032653_J1600-3053.pz.fT 1452.646973 56377.152910702407910 1.167 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1087.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.31 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20130330_022913_J1600-3053.pz.fT 1642.628052 56381.132920817737998 0.450 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3257 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.949 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20130330_022913_J1600-3053.pz.fT 1450.284058 56381.132920831347591 0.677 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3257 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.09 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20130428_012727_J1600-3053.pz.fT 1640.989014 56410.069168992970529 0.913 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1107.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.9 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130428_012727_J1600-3053.pz.fT 1454.078979 56410.069168998457753 1.017 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1107.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.06 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20130430_002340_J1600-3053.pz.fT 1642.084961 56412.048597121204451 0.619 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3676.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.857 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20130430_002340_J1600-3053.pz.fT 1452.953979 56412.048597129783800 0.761 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3676.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.878 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20130620_220519_J1600-3053.pz.fT 1638.567993 56463.930257041821759 1.071 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1035.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.17 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130620_220519_J1600-3053.pz.fT 1453.963013 56463.930257044701990 0.936 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1035.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20130702_203525_J1600-3053.pz.fT 1637.988037 56475.878750749476859 0.947 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2966.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.943 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20130702_203525_J1600-3053.pz.fT 1452.272949 56475.878750754428594 0.766 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2966.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.94 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20130711_205332_J1600-3053.pz.fT 1638.079956 56484.878961919933063 1.689 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1088.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.957 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130711_205332_J1600-3053.pz.fT 1452.654053 56484.878961924375785 1.242 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1088.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.82 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20130728_183302_J1600-3053.pz.fT 1641.017944 56501.804567650207985 0.731 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3443.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.85 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20130728_183302_J1600-3053.pz.fT 1453.444946 56501.804567656689474 0.807 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3443.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.06 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20130730_193323_J1600-3053.pz.fT 1637.547974 56503.825221573858780 1.215 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1132.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.967 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130730_193323_J1600-3053.pz.fT 1454.418945 56503.825221574786103 1.711 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1132.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.11 -nbin 512 -sys JBO.ROACH.1420
+2ch/20130826_165500_J1600-3053.pz.fT 1641.786987 56530.727896910515412 0.772 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3493.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.853 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130826_165500_J1600-3053.pz.fT 1453.694946 56530.727896917466429 0.824 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3493.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.15 -nbin 512 -sys JBO.ROACH.1420
+2ch/20130914_163827_J1600-3053.pz.fT 1639.281982 56549.703662703735752 1.555 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1052.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1620
+2ch/20130914_163827_J1600-3053.pz.fT 1453.647949 56549.703662707960181 1.697 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1052.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.3 -nbin 512 -sys JBO.ROACH.1420
+2ch/20131107_130128_J1600-3053.pz.fT 1639.907959 56603.551107986376193 1.343 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1006.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.974 -nbin 512 -sys JBO.ROACH.1620
+2ch/20131107_130128_J1600-3053.pz.fT 1453.167969 56603.551107992063171 1.779 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1006.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.08 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20131130_102757_J1600-3053.pz.fT 1639.677979 56626.464470353648389 0.885 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3510.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.934 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20131130_102757_J1600-3053.pz.fT 1455.076050 56626.464470356016290 0.983 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3510.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20131222_090101_J1600-3053.pz.fT 1642.551025 56648.404305735736209   0.826  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3648.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.29 -nbin 512 # bad.list
+C 2ch/20131222_090101_J1600-3053.pz.fT 1453.442993 56648.404305744031257   0.930  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3648.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 # bad.list
+C 2ch/20140125_063253_J1600-3053.pz.fT 1641.770996 56682.308300533414050 0.566 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3967.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.926 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20140125_063253_J1600-3053.pz.fT 1454.020996 56682.308300539912244 0.648 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3967.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.04 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20140323_030043_J1600-3053.pz.fT 1642.359985 56739.155510532440244 0.773 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3622.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.979 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20140323_030043_J1600-3053.pz.fT 1454.399048 56739.155510538979494 0.950 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3622.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20140412_015430_J1600-3053.pz.fT 1640.496948 56759.102446618620057 0.604 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3488.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20140412_015430_J1600-3053.pz.fT 1453.806030 56759.102446623995455 0.858 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3488.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.07 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20140823_171135_J1600-3053.pz.fT 1643.917969 56892.739579638110537 0.572 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2960.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.04 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20140823_171135_J1600-3053.pz.fT 1455.901978 56892.739579643883520 0.761 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2960.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20140923_150555_J1600-3053.pz.fT 1642.203979 56923.651534463118739 0.590 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3188.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20140923_150555_J1600-3053.pz.fT 1453.626953 56923.651534470679596 0.613 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3188.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.971 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20141014_132541_J1600-3053.pz.fT 1643.290039 56944.591291606754942 0.658 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2195.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.887 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20141014_132541_J1600-3053.pz.fT 1459.595947 56944.591291605825786 0.730 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2195.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.17 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20141217_091223_J1600-3053.pz.fT 1641.689941 57008.414952554792846 0.475 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3260.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.728 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20141217_091223_J1600-3053.pz.fT 1453.739990 57008.414952561626017 0.730 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3260.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20150123_062031_J1600-3053.pz.fT 1645.552002 57045.307262969439035 0.494 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3520.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.977 -nbin 512 -sys JBO.ROACH.1620
+2ch/20150123_062031_J1600-3053.pz.fT 1452.973022 57045.307262981928074 0.578 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3520.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.14 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20150327_025846_J1600-3053.pz.fT 1643.439941 57108.146548748528087 0.575 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3510.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.992 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150327_025846_J1600-3053.pz.fT 1454.989990 57108.146548755335967 0.790 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3510.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.16 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150416_012302_J1600-3053.pz.fT 1644.081055 57128.091515923846314 0.561 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3256.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.873 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150416_012302_J1600-3053.pz.fT 1455.385986 57128.091515930731990 0.519 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3256.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.836 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150521_224159_J1600-3053.pz.fT 1643.871948 57163.983372185313630 0.713 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 5098.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150521_224159_J1600-3053.pz.fT 1455.843994 57163.983372191169163 0.790 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 5098.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.04 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150618_212832_J1600-3053.pz.fT 1649.010010 57191.917640178812607 0.954 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3273.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.998 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150618_212832_J1600-3053.pz.fT 1453.046997 57191.917640153370800 1.071 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3273.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.2 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150718_193029_J1600-3053.pz.fT 1644.790039 57221.835729331395889 0.696 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3567.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.798 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150718_193029_J1600-3053.pz.fT 1454.088989 57221.835729341121473 1.106 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3567.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.94 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150828_164036_J1600-3053.pz.fT 1645.567993 57262.722327932390948 0.764 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3622 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150828_164036_J1600-3053.pz.fT 1453.380005 57262.722327944146393 0.687 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3622 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.886 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20150917_153027_J1600-3053.pz.fT 1643.885986 57282.669262337929961 0.699 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3364 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.26 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20150917_153027_J1600-3053.pz.fT 1454.098022 57282.669262346605865 0.656 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3364 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.885 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20151009_135555_J1600-3053.pz.fT 1642.885010 57304.608404419151939 0.462 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3226.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.02 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20151009_135555_J1600-3053.pz.fT 1457.037964 57304.608404421911590 0.652 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3226.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.901 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20151009_140500_J1600-3053.pz.fT 1436.630005 57304.586957840926106  50.624  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 48 -tobs 5.9575 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.968 -nbin 512 # bad.list
+C 2ch/20151009_140500_J1600-3053.pz.fT 1406.000000 57304.586957861066784 224.393  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 48 -tobs 5.9575 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 # bad.list
+C 2ch/20151106_121359_J1600-3053.pz.fT 1642.604004 57332.532672080104828 0.513 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3392.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20151106_121359_J1600-3053.pz.fT 1454.548950 57332.532672086606357 0.544 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3392.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.17 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20151211_093953_J1600-3053.pz.fT 1642.500000 57367.433664109503053   0.420  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3324 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.919 -nbin 512 # bad.list
+C 2ch/20151211_093953_J1600-3053.pz.fT 1455.477051 57367.433664114435847   0.469  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3324 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.983 -nbin 512 # bad.list
+2ch/20160219_050419_J1600-3053.pz.fT 1639.990967 57437.232980137169113 0.490 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2967.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.15 -nbin 512 -sys JBO.ROACH.1620
+2ch/20160219_050419_J1600-3053.pz.fT 1454.508057 57437.232980140855579 0.528 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2967.9 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.988 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20160311_033501_J1600-3053.pz.fT 1643.355957 57458.184083905570539 0.398 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4247.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.15 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20160311_033501_J1600-3053.pz.fT 1454.541992 57458.184083913037546 0.399 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4247.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.935 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20160406_031436_J1600-3053.pz.fT 1644.472046 57484.137760515610437 2.094 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 416.68 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.08 -nbin 512 -sys JBO.ROACH.1620
+2ch/20160406_031436_J1600-3053.pz.fT 1454.144043 57484.137760524944926 1.250 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 416.68 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20160506_000633_J1600-3053.pz.fT 1634.552979 57514.028858548153264 0.489 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 2183.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.07 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20160506_000633_J1600-3053.pz.fT 1454.067993 57514.028858546302206 0.646 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 2183.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20160824_170100_J1600-3053.pz.fT 1643.850952 57624.731932939461956 0.612 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3036.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.17 -nbin 512 -sys JBO.ROACH.1620
+2ch/20160824_170100_J1600-3053.pz.fT 1453.112061 57624.731932949716074 0.787 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3036.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.08 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20160827_163508_J1600-3053.pz.fT 1642.218018 57627.720305602813575 0.717 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4150.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.17 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20160827_163508_J1600-3053.pz.fT 1453.348999 57627.720305610854186 0.671 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4150.7 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.801 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20161002_142145_J1600-3053.pz.fT 1643.006958 57663.620574709924690 0.531 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3039.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.28 -nbin 512 -sys JBO.ROACH.1620
+2ch/20161002_142145_J1600-3053.pz.fT 1452.600952 57663.620574720047971 0.565 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3039.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.09 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20161014_133200_J1600-3053.pz.fT 1643.833008 57675.591244419102897 0.458 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3591.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20161014_133200_J1600-3053.pz.fT 1453.162964 57675.591244429274133 0.537 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3591.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.29 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20161118_111329_J1600-3053.pz.fT 1642.988037 57710.495096633744313 0.646 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3842.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1620
+2ch/20161118_111329_J1600-3053.pz.fT 1451.824951 57710.495096645197310 0.628 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3842.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+2ch/20161212_100810_J1600-3053.pz.fT 1644.133057 57734.447622425302015 0.792 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3091.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1 -nbin 512 -sys JBO.ROACH.1620
+2ch/20161212_100810_J1600-3053.pz.fT 1451.279053 57734.447622438935968 0.833 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3091.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.892 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20161216_100910_J1600-3053.pz.fT 1645.160034 57738.432691085861376 1.128 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 877.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.849 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20161216_100910_J1600-3053.pz.fT 1451.514038 57738.432691100277357 1.210 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 877.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.951 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20170127_064104_J1600-3053.pz.fT 1644.493042 57780.305103166139396 0.670 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2845.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.908 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20170127_064104_J1600-3053.pz.fT 1452.166016 57780.305103178758492 0.825 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2845.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.999 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20170217_050948_J1600-3053.pz.fT 1645.217041 57801.244749178589158 0.766 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4203.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20170217_050948_J1600-3053.pz.fT 1451.696045 57801.244749192819660 0.926 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 4203.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.892 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20170325_025224_J1600-3053.pz.fT 1643.083984 57837.147579681455739 0.623 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3858 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.892 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20170325_025224_J1600-3053.pz.fT 1452.168945 57837.147579692444187 0.906 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3858 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.16 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20171117_121234_J1600-3053.pz.fT 1644.170044 58074.519233219757084 1.105 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 780.04 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.906 -nbin 512 -sys JBO.ROACH.1620
+2ch/20171117_121234_J1600-3053.pz.fT 1448.443970 58074.519233238122985 1.214 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 780.04 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.93 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20171221_084826_J1600-3053.pz.fT 1640.517944 58108.373008919266030   6.971  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 200.23 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.983 -nbin 512 # bad.list
+C 2ch/20171221_084826_J1600-3053.pz.fT 1455.802979 58108.373008921403376   8.453  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 200.23 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.25 -nbin 512 # bad.list
+C 2ch/20171221_090701_J1600-3053.pz.fT 1644.985962 58108.405524370516417   1.536  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 184 -tobs 2648.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 # bad.list
+C 2ch/20171221_090701_J1600-3053.pz.fT 1459.688965 58108.405524371420463   1.446  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 184 -tobs 2648.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 # bad.list
+C 2ch/20180112_082809_J1600-3053.pz.fT 1644.009033 58130.353650159247626  30.553  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 24.283 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.11 -nbin 512 # bad.list
+C 2ch/20180112_082809_J1600-3053.pz.fT 1445.561035 58130.353650182540615  11.854  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 24.283 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 # bad.list
+C 2ch/20180209_060615_J1600-3053.pz.fT 1644.126953 58158.273568548442689 1.341 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2669.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.92 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20180209_060615_J1600-3053.pz.fT 1448.520020 58158.273568566650057 1.303 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2669.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.83 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20180316_034134_J1600-3053.pz.fT 1642.604980 58193.176662143510490 0.876 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3502.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.991 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20180316_034134_J1600-3053.pz.fT 1448.350952 58193.176662160293567 0.960 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3502.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.866 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20180406_021458_J1600-3053.pz.fT 1643.671997 58214.118999574358566   0.654  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3482.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.995 -nbin 512 # bad.list
+C 2ch/20180406_021458_J1600-3053.pz.fT 1448.260986 58214.118999592497342   0.722  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3482.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.991 -nbin 512 # bad.list
+2ch/20181214_094401_J1600-3053.pz.fT 1644.572998 58466.428552429107618 1.211 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3411.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.13 -nbin 512 -sys JBO.ROACH.1620
+2ch/20181214_094401_J1600-3053.pz.fT 1447.564941 58466.428552449371147 1.150 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3411.3 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20190111_071739_J1600-3053.pz.fT 1643.198975 58494.352832573466831   0.718  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3890.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.976 -nbin 512 # bad.list
+C 2ch/20190111_071739_J1600-3053.pz.fT 1449.036987 58494.352832589776596   0.710  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3890.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.19 -nbin 512 # bad.list
+C 2ch/20190111_074213_J1600-3053.pz.fT 1657.130005 58494.322779211708679  18.922  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 152 -tobs 23.172 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.902 -nbin 512 # bad.list
+C 2ch/20190111_074213_J1600-3053.pz.fT 1515.291016 58494.322779183017896  10.917  jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520  -fe unknown -be ROACH -f unknown_ROACH -bw 152 -tobs 23.172 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 # bad.list
+2ch/20190317_033826_J1600-3053.pz.fT 1644.543945 58559.165320808796759 1.549 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 386.79 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.866 -nbin 512 -sys JBO.ROACH.1620
+2ch/20190317_033826_J1600-3053.pz.fT 1453.824951 58559.165320818794418 1.992 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 386.79 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+2ch/20190317_041014_J1600-3053.pz.fT 1644.053955 58559.185177867284374 1.694 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 317.02 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.24 -nbin 512 -sys JBO.ROACH.1620
+2ch/20190317_041014_J1600-3053.pz.fT 1448.922974 58559.185177884685689 2.138 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 317.02 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.715 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20191123_110720_J1600-3053.pz.fT 1643.327026 58810.486410504617221 0.810 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3787.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.02 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20191123_110720_J1600-3053.pz.fT 1445.579956 58810.486410526759180 1.099 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3787.8 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.928 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20191221_091659_J1600-3053.pz.fT 1642.036011 58838.410123392566056 1.252 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3872.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20191221_091659_J1600-3053.pz.fT 1448.879028 58838.410123407819200 1.514 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3872.1 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20200118_080310_J1600-3053.pz.fT 1675.022949 58866.346197666434550 1.413 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 120 -tobs 1075.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1620
+2ch/20200118_080310_J1600-3053.pz.fT 1568.602051 58866.346197667215459 1.668 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 120 -tobs 1075.5 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1620
+C 2ch/20200215_053705_J1600-3053.pz.fT 1643.770996 58894.257088024192132 0.956 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3876.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.02 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20200215_053705_J1600-3053.pz.fT 1439.975952 58894.257088056260651 1.156 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3876.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.29 -nbin 512 -sys JBO.ROACH.1420
+
+2ch/20200927_154549_J1600-3053.pz.fT 1644.058960 59119.669038844720730 1.311 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1363.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.06 -nbin 512 -sys JBO.ROACH.1620
+2ch/20200927_154549_J1600-3053.pz.fT 1450.866943 59119.669038858926291 1.670 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 1363.4 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.05 -nbin 512 -sys JBO.ROACH.1420
+C 2ch/20201004_142116_J1600-3053.pz.fT 1641.197021 59126.621198245669173 1.121 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3093.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20201004_142116_J1600-3053.pz.fT 1450.496948 59126.621198257214326 1.534 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 192 -tobs 3093.6 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.12 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20201114_113944_J1600-3053.pz.fT 1638.758057 59167.507929774305015 1.139 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2924 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.1 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20201114_113944_J1600-3053.pz.fT 1458.407959 59167.507929770196885 2.001 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 2924 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.01 -nbin 512 -sys JBO.ROACH.1420
+
+C 2ch/20210116_080925_J1600-3053.pz.fT 1641.863037 59230.363247214455089 0.871 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3311.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 0.899 -nbin 512 -sys JBO.ROACH.1620
+
+C 2ch/20210116_080925_J1600-3053.pz.fT 1455.114990 59230.363247219279673 1.629 jbroach -g LOVELL_ROACH -h JB_ROACH -pta EPTA -group JBO.ROACH.1520 -fe unknown -be ROACH -f unknown_ROACH -bw 200 -tobs 3311.2 -tmplt std/J1600-3053_jbroach_1532.std -gof 1.03 -nbin 512 -sys JBO.ROACH.1420
+

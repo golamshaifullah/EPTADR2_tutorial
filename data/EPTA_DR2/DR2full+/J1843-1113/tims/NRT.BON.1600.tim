@@ -1,0 +1,90 @@
+FORMAT 1
+MODE 1
+../data/55490.500011.f.000.000.zap 1596.98900000 55490.69209380412760169 1.19100 ncy -fe L_Band -be BON -bw 128 -tobs 3372.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+../data/55575.500015.f.000.000.zap 1598.37400000 55575.45375320334044744 0.77900 ncy -fe L_Band -be BON -bw 128 -tobs 3011.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+../data/55622.500009.f.000.000.zap 1596.03800000 55622.33703511559853183 1.11700 ncy -fe L_Band -be BON -bw 128 -tobs 2650.1 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+../data/55659.500009.f.000.000.zap 1597.32300000 55659.22928412255702568 0.49500 ncy -fe L_Band -be BON -bw 128 -tobs 3854.7 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+C ../data/55802.500003.f.000.000.zap 1629.00700000 55802.83560994315860171 0.80900 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55803.500021.f.000.000.zap 1629.93400000 55803.82140180539981245 1.49000 ncy -fe L_Band -be BON -bw 128 -tobs 1807 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55872.500013.f.000.000.zap 1628.53300000 55872.64497291850028660 0.94800 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55881.500025.f.000.000.zap 1628.49800000 55881.61984032094087382 0.90200 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55885.500019.f.000.000.zap 1628.55500000 55885.60894619869511857 0.49800 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55890.500023.f.000.000.zap 1628.74500000 55890.59539812194616459 2.25500 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55917.500013.f.000.000.zap 1628.35000000 55917.52141937584646314 1.32400 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55919.500011.f.000.000.zap 1626.77900000 55919.51598981716600534 0.75300 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55923.500015.f.000.000.zap 1628.43400000 55923.50585017555210143 0.34300 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55948.500015.f.000.000.zap 1628.20300000 55948.44963900661096190 1.13500 ncy -fe L_Band -be BON -bw 128 -tobs 1686.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/55951.500011.f.000.000.zap 1628.58000000 55951.43135381992292565 2.53300 ncy -fe L_Band -be BON -bw 128 -tobs 3252.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+../data/55970.500011.f.000.000.zap 1628.00000000 55970.35662573922461149 3.74100 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+C ../data/55992.500013.f.000.000.zap 1628.54600000 55992.31539561833917773 1.44900 ncy -fe L_Band -be BON -bw 128 -tobs 3493.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56005.500003.f.000.000.zap 1628.56400000 56005.28354907804748208 1.20800 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56007.500005.f.000.000.zap 1628.39800000 56007.27648960191060468 0.45700 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56032.500007.f.000.000.zap 1628.26500000 56032.20199470843304823 0.96600 ncy -fe L_Band -be BON -bw 128 -tobs 2770.7 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56039.500009.f.000.000.zap 1628.19600000 56039.18796449888478506 0.92500 ncy -fe L_Band -be BON -bw 128 -tobs 1807 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56056.500005.f.000.000.zap 1628.66700000 56056.14214439189345640 2.22000 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56063.500005.f.000.000.zap 1628.83300000 56063.12345796465098502 0.80400 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56105.500030.f.000.000.zap 1628.14300000 56106.00939628413265226 0.82700 ncy -fe L_Band -be BON -bw 128 -tobs 3252.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56120.500037.f.000.000.zap 1628.08300000 56120.96713794000737252 1.38100 ncy -fe L_Band -be BON -bw 128 -tobs 3493.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56123.500027.f.000.000.zap 1628.05800000 56123.95895817515496162 0.87500 ncy -fe L_Band -be BON -bw 128 -tobs 3493.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56161.500024.f.000.000.zap 1626.63700000 56161.85319988984095474 1.44500 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56192.500051.f.000.000.zap 1627.83800000 56192.76751535100547130 1.01800 ncy -fe L_Band -be BON -bw 128 -tobs 3132.1 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+../data/56228.500016.f.000.000.zap 1628.16300000 56228.67136175260199238 0.98600 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+C ../data/56245.500015.f.000.000.zap 1628.46000000 56245.62456766384176277 1.33200 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56428.500003.f.000.000.zap 1628.13400000 56428.12622359938897176 1.16800 ncy -fe L_Band -be BON -bw 128 -tobs 3011.6 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56441.500001.f.000.000.zap 1628.70900000 56441.08846587961636132 1.15100 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/56465.500001.f.000.000.zap 1628.75900000 56465.02168488532158719 2.86400 ncy -fe L_Band -be BON -bw 128 -tobs 2047.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56472.500027.f.000.000.zap 1629.22200000 56473.01226590929880444 2.09700 ncy -fe L_Band -be BON -bw 128 -tobs 1686.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56495.500011.f.000.000.zap 1628.96200000 56495.93937884191627319 5.60700 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+C ../data/part2/56508.500016.f.000.000.zap 1628.44200000 56508.90327784291547886 1.25500 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56519.500022.f.000.000.zap 1628.86100000 56519.87672209438409965 0.51400 ncy -fe L_Band -be BON -bw 128 -tobs 3252.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56535.500018.f.000.000.zap 1628.57000000 56535.83471123815998638 0.89100 ncy -fe L_Band -be BON -bw 128 -tobs 3011.6 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+../data/part2/56591.500023.f.000.000.zap 1628.79400000 56591.68566448646387101 1.26600 ncy -fe L_Band -be BON -bw 128 -tobs 2288.8 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+C ../data/part2/56616.500013.f.000.000.zap 1628.64300000 56616.60887567443209178 0.62400 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56652.500009.f.000.000.zap 1628.83400000 56652.51457892552556572 0.56800 ncy -fe L_Band -be BON -bw 128 -tobs 3252.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56669.500011.f.000.000.zap 1628.17400000 56669.46761550434763777 0.57900 ncy -fe L_Band -be BON -bw 128 -tobs 3252.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56672.500011.f.000.000.zap 1627.98500000 56672.45282145759001224 0.65100 ncy -fe L_Band -be BON -bw 128 -tobs 3373 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56681.500013.f.000.000.zap 1628.26900000 56681.43313348254309503 0.96200 ncy -fe L_Band -be BON -bw 128 -tobs 3493.5 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56728.500007.f.000.000.zap 1628.27500000 56728.30250358217038809 1.24300 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56735.500007.f.000.000.zap 1627.95800000 56735.28347974501076934 0.66800 ncy -fe L_Band -be BON -bw 128 -tobs 3854.9 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56762.500003.f.000.000.zap 1628.97700000 56762.21605851323713310 2.64000 ncy -fe L_Band -be BON -bw 128 -tobs 2529.8 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
+C ../data/part2/56763.500005.f.000.000.zap 1620.46600000 56763.20663602618072829 5.50600 ncy -fe L_Band -be BON -bw 128 -tobs 3734.4 -tmplt 1843_1600.tpl -nbin 2048 -nch 32 -sys NRT.BON.1600  -padd 0.171896 -pta EPTA -group NRT.BON.1600
+
