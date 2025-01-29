@@ -1,6 +1,6 @@
 # A set of tutorials to use with the EPTA DR2 data release
 
-You'll need colab to run these tutorials. You can run them on your local machine, but you'll need to install the required packages.
+You'll need colab to run these tutorials. You can run them on your local machine, but you'll need to [install the required packages](https://github.com/ipta/pulsar-env).
 
 ## Tutorial 1: Introduction to pulsar timing with libstempo
 
